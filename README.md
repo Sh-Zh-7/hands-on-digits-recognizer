@@ -17,6 +17,12 @@ Remember, since the digits data set has many forms, I choose different data set 
 
 The 2 datasets I used here are from **Machine Learning in Action book's resources** and **Kaggle's mnist data set**. 
 
+# Instruction
+
+For SVM and KNN part, you can see the [Chinese instruction here](https://github.com/Sh-Zh-7/hands-on-digits-recognizer/blob/master/doc/knn_svm_instruction.pdf).
+
+For CNN part, I strongly recommend AndrewNG's deep learning course and Kaggle's high rank notebooks.
+
 # Reference
 
 [1]. [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181). PETER HARRINGTON. MANNING. Shelter Island. 
